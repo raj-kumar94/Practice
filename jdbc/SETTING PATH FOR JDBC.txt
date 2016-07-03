@@ -1,0 +1,7 @@
+1. go to C:\oraclexe\app\oracle\product\10.2.0\server\jdbc\lib  and copy the address where jdbc jar files are
+
+2. copy these files to C:\Program Files\Java\jdk1.8.0_51\jre\lib\ext 
+    and
+	C:\Program Files\Java\jre1.8.0_51\lib\ext as well
+
+3. set the path for these two paths
